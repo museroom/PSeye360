@@ -41,3 +41,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.jpg
+*.log
+*.obj
+*.tlog
+*.avi
+*.pdb
+*.dll
+*.filters
+*.exe
+*.ilk
+*.user
